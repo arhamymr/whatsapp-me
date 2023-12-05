@@ -8,11 +8,11 @@
 
 /* Begin PBXBuildFile section */
 		FE32FD912B1C7AA100935612 /* whatsapp_meApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE32FD902B1C7AA100935612 /* whatsapp_meApp.swift */; };
-		FE32FD932B1C7AA100935612 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE32FD922B1C7AA100935612 /* ContentView.swift */; };
 		FE32FD952B1C7AA300935612 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FE32FD942B1C7AA300935612 /* Assets.xcassets */; };
 		FE32FD982B1C7AA300935612 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FE32FD972B1C7AA300935612 /* Preview Assets.xcassets */; };
 		FE32FDA22B1CCA4700935612 /* persistentController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE32FDA12B1CCA4700935612 /* persistentController.swift */; };
 		FE32FDA92B1EF31E00935612 /* Model.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = FE32FDA72B1EF31E00935612 /* Model.xcdatamodeld */; };
+		FE32FDAF2B1F06FB00935612 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE32FD922B1C7AA100935612 /* ContentView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -143,9 +143,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FE32FD932B1C7AA100935612 /* ContentView.swift in Sources */,
 				FE32FDA22B1CCA4700935612 /* persistentController.swift in Sources */,
 				FE32FD912B1C7AA100935612 /* whatsapp_meApp.swift in Sources */,
+				FE32FDAF2B1F06FB00935612 /* ContentView.swift in Sources */,
 				FE32FDA92B1EF31E00935612 /* Model.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
